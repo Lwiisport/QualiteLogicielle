@@ -86,4 +86,4 @@ Une fois que l'on réanalyse le document, la complexité n'a pas changé.
 | BankAccountApp | 491 | 2   | 3   | Malgré seulement 2 fonctions, `BankAccountApp` est la classe la plus grande.   |
 
 La classe `Person` a la `Weighted methods per class` la plus grande.
-La classe `Bank` a la `Coupling between object classes` la plus grande.Nous pouvons analyser les
+La classe `Bank` a la `Coupling between object classes` la plus grande.
